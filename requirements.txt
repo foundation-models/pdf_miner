@@ -226,3 +226,7 @@ widgetsnbextension==4.0.13
 wrapt==1.17.2
 xlrd==2.0.1
 xlsxwriter==3.2.2
+PyPDF2 
+pdf2image 
+pytesseract 
+pillow
